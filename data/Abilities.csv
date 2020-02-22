@@ -1,0 +1,28 @@
+﻿Accuracy,Constitution,Communication,Dexterity,Fighting,Intelligence,Perception,Strength,Willpower
+Assault Rifles,Propelling,Animal Handling,Acrobatics,Brawling,Anthropology,Empathy,Climbing,Courage
+ Bows,Running,Bargaining,Crafting,Flexible Weapons,Art,Hearing,Intimidation,Faith
+ Black Powder Weapons,Stamina,Deception,Driving,Grappling,Astronomy,Searching,Jumping,Morale
+ Grenades,Swimming,Disguise,Forgery,Heavy Blades,Biology,Seeing,Machining,Self-Discipline
+ Longarms,Tolerance,Etiquette,Initiative,Light Blades,Business,Smelling,Might,
+ Pistols,,Expression,Piloting,Long Hafted,Cartography,Tasting,Steering,
+ Shotguns,,Gambling,Riding,Short Hafted,Chemistry,Touching,,
+ SMGs,,Investigation,Sabotage,,Computers,Tracking,,
+ Thrown,,Leadership,Sleight of Hand,,Cryptography,,,
+,,Performance,Stealth,,Current Affairs,,,
+,,Persuasion,,,Earth Sciences,,,
+,,Seduction,,,Electronics,,,
+,,,,,Engineering,,,
+,,,,,Evaluation,,,
+,,,,,Explosives,,,
+,,,,,History,,,
+,,,,,Homemaking,,,
+,,,,,Law,,,
+,,,,,Medicine,,,
+,,,,,Navigation,,,
+,,,,,Occultism,,,
+,,,,,Physics,,,
+,,,,,Research,,,
+,,,,,Security,,,
+,,,,,Tactics,,,
+,,,,,Theology,,,
+,,,,,Tinkering,,,

@@ -1,0 +1,9 @@
+1. concept
+2. abilities
+3. background
+4. profession
+5. drive
+6. resources and equipment
+7. health, defense, toughness, and speed:
+8. goals, ties, and relAtionships
+9. name and description
